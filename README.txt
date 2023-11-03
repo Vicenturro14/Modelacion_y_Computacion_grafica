@@ -15,5 +15,4 @@ Estudiante: Vicente Olivares Gómez
     - 4: Primavera (Árboles con hojas verdes y flores)
 
 Me faltó tiempo para poner más casas y casas diferentes.
-En la función createHouse está la opción de crear una casa no cubica, si se cambia el parámetro form a 1, solo me faltó poner esas casas en la escena
-Igual, muchas gracias por dar más plazo. 
+En la función createHouse está la opción de crear una casa no cubica, si se cambia el parámetro form a 1, solo me faltó poner esas casas en la escena.
